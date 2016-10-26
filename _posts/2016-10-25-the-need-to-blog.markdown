@@ -9,3 +9,14 @@ categories: blogging
 * Form of journalling
 * Retain information longer
 * Share to others
+
+## Playing with blogging formatting
+
+This is some inline `code`.
+
+Here is a code block
+```
+def add(x,y)
+  x + y
+end
+```
