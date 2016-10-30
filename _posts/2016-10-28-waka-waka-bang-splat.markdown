@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Waka Waka Bang Splat
-tags: humor
+categories: humor
 ---
 
 A little geek humor that I stole from another site. 
 
-{% highlight %}
-i< > ! * ' ' #
+{% highlight bash %}
+< > ! * ' ' #
 ^ " ` $ $ -
 ! * = @ $ _
 % * < > ~ # 4
@@ -17,7 +17,7 @@ i< > ! * ' ' #
 
 The poem can only be appreciated by reading it aloud, as such:
 
-{% highlight %}
+{% highlight bash %}
 Waka waka bang splat tick tick hash,
 Caret quote back-tick dollar dollar dash,
 Bang splat equal at dollar under-score,
